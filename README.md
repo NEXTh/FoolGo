@@ -45,3 +45,5 @@ C++编码指南
 
 ## 问题交流
 * Send me an email : chncwang@gmail.com
+
+C++ HELLO!
