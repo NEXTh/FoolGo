@@ -47,3 +47,4 @@ C++编码指南
 * Send me an email : chncwang@gmail.com
 
 C++ HELLO!
+Hi!
